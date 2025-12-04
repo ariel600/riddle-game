@@ -1,6 +1,6 @@
-import {menu, print_riddles, ask_riddle, show_stats} from "./utils/prints.js"
-import {add_riddle, choice, id_riddle, name} from "./utils/client.js"
-import {add_solve_time, calculation_average, measure_solve_time, test_answer, total_calculation} from "./utils/tests.js"
+import {print_riddles, show_stats} from "./utils/prints.js"
+import {add_riddle, name} from "./utils/client.js"
+import {measure_solve_time} from "./utils/tests.js"
 import {player} from "./player.js"
 import riddle from "../riddles/all.js"
 

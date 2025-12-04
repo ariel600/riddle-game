@@ -1,6 +1,6 @@
 import {choice} from "./client.js"
 import all from "../riddles/all.js"
-import {calculation_average, total_calculation, test_answer} from "./tests.js"
+import {calculation_average, total_calculation} from "./tests.js"
 
 export function menu() {
     console.log("1 - Show all riddles");
