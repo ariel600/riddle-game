@@ -1,6 +1,6 @@
 export default {
-    id: 3,
-    name: ,
-    taskDescription: ,
-    correctAnswer:
+    id: 1,
+    name: "Easy Math",
+    taskDescription: "What is 5 + 5?",
+    correctAnswer: "10"
 }
