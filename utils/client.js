@@ -1,5 +1,5 @@
-import input from 'analiza-sync';
-import all from '../riddles/all.js';
+import input from "analiza-sync"
+import all from "../riddles/all.js";
 
 let id = 0
 
